@@ -1,0 +1,16 @@
+p{
+    font-size: x-large;
+    color: orangered;
+}
+h1{
+    mask-type: luminance;
+}
+hr{
+    border-color:rgba(255, 0, 0, 0.748);
+    border-style: dotted;
+    border-top-width: 4px;
+    width: 5%;
+}
+a{
+    size: 10px;
+}
